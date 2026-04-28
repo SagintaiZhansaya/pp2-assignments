@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Erick Anderson",
+        "email": "andie@mail.com",
+        "birthday": "1990-05-15",
+        "group": "Friends",
+        "phones": [
+            {
+                "number": "+7 701 222 3344",
+                "type": "mobile"
+            },
+            {
+                "number": "322 44 55",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Sally Grey",
+        "email": "sagrennya@google.com",
+        "birthday": "1995-10-20",
+        "group": "Work",
+        "phones": [
+            {
+                "number": "+7 702 555 6677",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Sophi June",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": []
+    }
+]
